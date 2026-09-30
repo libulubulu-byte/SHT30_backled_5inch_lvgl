@@ -1,0 +1,2 @@
+source D:/ESP32-IDF/esp-idf-v5.5.1/examples/get-started/SHT30_backled_5inch/build/bootloader/gdbinit/symbols
+source D:/ESP32-IDF/esp-idf-v5.5.1/examples/get-started/SHT30_backled_5inch/build/bootloader/gdbinit/connect

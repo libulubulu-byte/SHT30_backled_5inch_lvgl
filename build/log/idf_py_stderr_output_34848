@@ -1,0 +1,13 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Users\DELL\.espressif\python_env\idf5.5_py3.13_env\Scripts\python.exe -DESP_PLATFORM=1 -DCCACHE_ENABLE=1 D:\ESP32-IDF\esp-idf-v5.5.1\examples\get-started\SHT30_backled_5inch
+CMake Warning at D:/ESP32-IDF/esp-idf-v5.5.1/tools/cmake/build.cmake:627 (message):
+Call Stack (most recent call first):
+  D:/ESP32-IDF/esp-idf-v5.5.1/tools/cmake/project.cmake:740 (idf_build_process)
+  CMakeLists.txt:7 (project)
+
+
+CMake Warning at D:/ESP32-IDF/esp-idf-v5.5.1/tools/cmake/project.cmake:753 (message):
+  Missing kconfig option.  Re-run the build process...
+Call Stack (most recent call first):
+  CMakeLists.txt:7 (project)
+
+
